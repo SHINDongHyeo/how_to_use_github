@@ -17,3 +17,7 @@ function cat() {
   console.log("I hate cat");
   console.log("cat 함수 마무리~~₩");
 }
+
+function bird() {
+  console.log("bird 함수 시작해요!!!");
+}
