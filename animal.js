@@ -5,4 +5,5 @@ function dog() {
 
 function cat() {
   console.log("I hate cat");
+  // 1번 사용자입니다. 여기다 주석 추가할게요~~~
 }
