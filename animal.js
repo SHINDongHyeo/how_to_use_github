@@ -3,6 +3,7 @@ function dog() {
   // 같은 코드를 수정했기에 최종 결과물을 직접 다시 생성했어요
   console.log("I like dog");
   console.log("I like dog");
+  console.log("사용자2가 최종적으로 두 커밋을 모두 반영했어요~~~");
 }
 
 function cat() {
