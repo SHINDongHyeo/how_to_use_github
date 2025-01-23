@@ -4,6 +4,7 @@ function dog() {
   console.log("I like dog");
   console.log("I like dog");
   console.log("사용자2가 최종적으로 두 커밋을 모두 반영했어요~~~");
+  console.log("dog 함수 수정중");
 }
 
 function cat() {
