@@ -1,6 +1,6 @@
 function dog() {
   console.log("I like dog");
-  // 2번 사용자가 작성한 주석을 1번 작성자가 수정해버렸어요!!!
+  // 같은 코드를 수정했기에 최종 결과물을 직접 다시 생성했어요
 }
 
 function cat() {
