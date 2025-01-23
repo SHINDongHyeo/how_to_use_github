@@ -21,3 +21,7 @@ function cat() {
 function bird() {
   console.log("bird 함수 시작해요!!!");
 }
+
+function tiger() {
+  console.log("tiger 함수 시작해요!!!");
+}
