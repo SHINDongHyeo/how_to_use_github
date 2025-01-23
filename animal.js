@@ -15,4 +15,5 @@ function cat() {
   console.log("I hate cat");
   console.log("I hate cat");
   console.log("I hate cat");
+  console.log("cat 함수 마무리~~₩");
 }
